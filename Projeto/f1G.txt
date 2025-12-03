@@ -1,0 +1,11 @@
+A função do 1º grau é uma relação matemática usada para mostrar como uma quantidade depende de outra de forma 
+simples e direta. Ela é representada por uma expressão em que a variável aparece elevada apenas à primeira potência, 
+o que indica um comportamento regular e previsível.
+Essa função possui a forma geral f(x)=ax+b . O número  indica como a função cresce ou diminui, enquanto  
+mostra o valor inicial da função quando a variável é igual a zero. Esses dois valores definem completamente o 
+comportamento da função.
+Quando representada no plano cartesiano, a função do 1º grau forma uma linha reta, o que facilita sua 
+interpretação gráfica. Dependendo do valor de , essa reta pode ser crescente ou decrescente, e o valor de  
+indica onde a reta intercepta o eixo vertical.
+A função do 1º grau é muito utilizada para modelar situações do dia a dia, como preços, distâncias e variações 
+constantes, pois permite compreender e prever resultados de maneira clara e objetiva.

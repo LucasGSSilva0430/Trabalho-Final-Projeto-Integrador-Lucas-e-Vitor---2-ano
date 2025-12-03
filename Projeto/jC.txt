@@ -1,0 +1,11 @@
+Juros compostos são aqueles em que os juros se acumulam ao longo do tempo. Isso significa que, a cada período, 
+os juros são calculados sobre o valor total atualizado, que inclui o capital inicial mais os juros já acrescentados. 
+Por isso, eles são conhecidos como “juros sobre juros”.
+Nesse sistema, três elementos continuam sendo fundamentais: capital inicial, taxa de juros e tempo. 
+A diferença em relação aos juros simples está no crescimento do valor, que não é constante. A cada novo período, 
+o montante aumenta mais do que no período anterior, pois a base de cálculo fica maior.
+O cálculo dos juros compostos envolve elevar o fator de juros ao tempo correspondente, representando matematicamente 
+esse crescimento acumulado. O valor final obtido já inclui todo o rendimento gerado durante o período total da aplicação ou da dívida.
+Os juros compostos são muito utilizados em investimentos, financiamentos e empréstimos bancários, pois refletem melhor 
+o comportamento real do dinheiro ao longo do tempo, mostrando como valores podem crescer rapidamente quando permanecem 
+aplicados por períodos maiores.

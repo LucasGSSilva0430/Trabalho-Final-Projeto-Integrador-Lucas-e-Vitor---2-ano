@@ -1,0 +1,11 @@
+Fração representa uma parte de um todo dividido em partes iguais. Ela é escrita com dois números:
+O de cima (numerador): mostra quantas partes estão sendo usadas
+E o de baixo (denominador): mostra em quantas partes o todo foi dividido.
+Por exemplo, significa uma parte de algo dividido em duas partes iguais.
+Na soma e subtração de frações, quando os denominadores são iguais, basta somar ou subtrair apenas
+os numeradores e manter o denominador, caso contrario deve-se igualar o denominador antes lembrando
+sempre que tudo que tu faz em baixo tem que fazer em cima.
+Na multiplicação de frações, é o processo mais simples: multiplica-se numerador com numerador e
+denominador com denominador. 
+Na divisão de frações, mantém-se a primeira fração e multiplica-se pela fração inversa da
+segunda (troca o número de cima com o de baixo).

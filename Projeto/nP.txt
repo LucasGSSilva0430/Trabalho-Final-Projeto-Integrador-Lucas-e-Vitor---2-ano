@@ -1,0 +1,8 @@
+Números primos são números naturais maiores que 1 que possuem apenas dois divisores: 
+o número 1 e ele mesmo. Isso significa que eles não podem ser divididos exatamente por nenhum outro número.
+Esses números são importantes porque funcionam como os “blocos básicos” da matemática. 
+Todo número natural maior que 1 pode ser formado pela multiplicação de números primos, o que é 
+chamado de fatoração.
+Os números primos são muito estudados na matemática porque aparecem em diversos conteúdos e 
+aplicações, como frações, divisibilidade e até em áreas como segurança digital, mostrando sua 
+importância tanto teórica quanto prática.

@@ -1,0 +1,13 @@
+A regra de três é um método usado para resolver problemas em que existe uma relação proporcional entre valores. 
+Ela é aplicada quando uma quantidade muda e a outra muda junto de forma previsível. Por isso, 
+a regra de três serve para descobrir um valor desconhecido a partir de outros já conhecidos.
+Existem dois tipos principais: regra de três simples direta e regra de três simples inversa. 
+Na direta, quando uma grandeza aumenta, a outra também aumenta; quando uma diminui, a outra também diminui. 
+Na inversa, acontece o contrário: quando uma grandeza aumenta, a outra diminui. Identificar esse tipo 
+de relação é o primeiro passo para resolver o problema corretamente.
+Para usar a regra de três, os valores conhecidos são organizados de forma clara, relacionando grandezas 
+iguais entre si. Em seguida, monta-se uma proporção que representa essa relação, permitindo encontrar o
+valor desconhecido por meio de uma conta simples, geralmente envolvendo multiplicação e divisão.
+A regra de três é muito utilizada no dia a dia e na matemática escolar porque simplifica situações que 
+envolvem comparação de quantidades, como tempo, preço, quantidade e distância, ajudando a resolver problemas 
+de forma rápida e lógica.

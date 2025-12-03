@@ -1,0 +1,11 @@
+A Geometria Plana é a parte da matemática que estuda figuras que possuem apenas duas dimensões, 
+ou seja, comprimento e largura. Essas figuras estão todas em um mesmo plano e não possuem profundidade. 
+Exemplos comuns desse estudo são pontos, retas, ângulos e superfícies planas.
+Nesse conteúdo, são analisadas as propriedades das figuras, como tamanho dos lados, medidas dos ângulos 
+e formas. A geometria plana permite compreender como as figuras são construídas, como se relacionam entre 
+si e quais características permanecem iguais mesmo quando a figura muda de posição.
+Também fazem parte da geometria plana o estudo de perímetro e área, que ajudam a calcular o contorno e 
+a superfície das figuras. Esses conceitos são importantes para resolver problemas práticos e compreender 
+melhor o espaço ao nosso redor.
+A geometria plana é fundamental para o aprendizado da matemática, pois desenvolve o raciocínio espacial 
+e lógico, servindo de base para outros ramos da geometria e para aplicações em áreas como arquitetura, engenharia e design.

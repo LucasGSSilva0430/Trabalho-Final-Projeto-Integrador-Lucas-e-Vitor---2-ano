@@ -1,0 +1,11 @@
+A Trigonometria é a área da matemática que estuda as relações entre os lados e os ângulos dos triângulos, 
+principalmente dos triângulos retângulos. Ela ajuda a entender como medidas de lados e ângulos se conectam 
+entre si de forma lógica e organizada.
+Nesse conteúdo, são trabalhadas relações chamadas de razões trigonométricas, que comparam os lados do 
+triângulo em relação a um ângulo. Essas razões permitem descobrir medidas desconhecidas quando algumas informações 
+já são conhecidas, facilitando a resolução de problemas geométricos.
+A trigonometria não se limita apenas aos triângulos, sendo também aplicada ao estudo de ângulos e movimentos 
+circulares. Ela amplia a compreensão sobre medidas e proporções, ligando conceitos da geometria com outras áreas da matemática.
+Esse conteúdo é muito importante porque possui diversas aplicações práticas, como em física, engenharia, 
+astronomia e navegação, além de contribuir para o desenvolvimento do raciocínio matemático e da interpretação 
+de situações relacionadas a medidas e formas.

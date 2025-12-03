@@ -1,0 +1,12 @@
+O logaritmo é uma operação que serve para descobrir qual expoente é necessário para que uma potência 
+resulte em determinado número. Em outras palavras, ele responde à pergunta: 
+“esse número precisa ser elevado a quanto para virar outro número?”. Por isso, o logaritmo está diretamente ligado à potenciação.
+Todo logaritmo possui dois elementos principais: a base e o logaritmando. A base é o número que será elevado 
+a uma potência, e o logaritmando é o resultado dessa potência. O valor do logaritmo indica exatamente o expoente 
+que transforma a base no logaritmando.
+Os logaritmos seguem regras próprias que ajudam a simplificar cálculos envolvendo números muito grandes ou 
+muito pequenos. Essas propriedades facilitam operações matemáticas e permitiram, durante muito tempo, a 
+realização de cálculos complexos de forma mais rápida e organizada.
+Os logaritmos são muito usados em diversas áreas, como matemática, ciência e tecnologia, pois ajudam a representar 
+e analisar situações em que os valores crescem ou diminuem de forma exponencial, tornando esses comportamentos 
+mais fáceis de entender e trabalhar.

@@ -1,0 +1,14 @@
+O plano cartesiano é uma forma de organizar e localizar pontos usando números. 
+Ele é formado por duas linhas que se cruzam: uma linha horizontal e outra vertical. 
+Essas linhas dividem o espaço em quatro partes e servem como referência para indicar posições, 
+como se fosse um mapa com regras bem definidas.
+A linha horizontal chama-se eixo x e indica posições para a direita e para a esquerda. 
+A linha vertical chama-se eixo y e indica posições para cima e para baixo. 
+O ponto onde as duas linhas se encontram é chamado de origem e representa o ponto zero para os dois eixos. 
+A partir dessa origem, todas as outras posições são medidas.
+Cada ponto no plano cartesiano é indicado por dois números, chamados de coordenadas. 
+O primeiro número mostra o deslocamento no eixo horizontal e o segundo mostra o deslocamento no eixo vertical. 
+A ordem desses números é importante, pois ela define exatamente onde o ponto está localizado no plano.
+O plano cartesiano é usado para representar gráficos, localizar pontos e analisar relações entre grandezas. 
+Ele ajuda a visualizar informações matemáticas de forma organizada, permitindo compreender melhor como valores
+se comportam e se relacionam entre si.

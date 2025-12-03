@@ -1,0 +1,12 @@
+A fórmula de Bhaskara é um método usado para resolver equações do segundo grau, que são equações 
+em que a incógnita aparece elevada ao quadrado. Esse tipo de equação tem a forma geral ax^2+bx+c=0, 
+onde ,  A, B e C  são números conhecidos e A é diferente de zero.
+Para usar a fórmula de Bhaskara, primeiro é preciso identificar corretamente os valores de , e na 
+equação. Em seguida, calcula-se o discriminante, chamado de delta, que indica se a equação terá soluções 
+reais e quantas soluções existirão. O valor de delta depende apenas desses coeficientes.
+Após encontrar o valor de delta, ele é substituído na fórmula principal, que permite calcular as 
+possíveis soluções da equação. Dependendo do valor de delta, a equação pode ter duas soluções diferentes, 
+uma solução única ou nenhuma solução real.
+A fórmula de Bhaskara é importante porque fornece um método direto e organizado para resolver qualquer 
+equação do segundo grau. Ela é amplamente utilizada no ensino de matemática por ajudar os estudantes a 
+compreenderem melhor a relação entre os termos da equação e suas soluções.

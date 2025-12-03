@@ -1,0 +1,7 @@
+Potenciação é uma forma de representar multiplicações repetidas de um mesmo número. 
+Ela é usada para simplificar contas que teriam muitas multiplicações iguais, tornando a escrita e o cálculo mais rápidos.
+Na potenciação, há dois elementos principais: a base, que é o número que será multiplicado, e o 
+expoente, que indica quantas vezes a base deve ser multiplicada por ela mesma. Esse processo facilita o 
+trabalho com números grandes ou expressões matemáticas repetitivas.
+A potenciação é muito utilizada na matemática e em outras áreas do conhecimento por tornar cálculos mais 
+organizados e práticos, servindo como base para conteúdos mais avançados, como radiciação, funções e equações.

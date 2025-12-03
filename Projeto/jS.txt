@@ -1,0 +1,9 @@
+Juros simples são usados quando o rendimento cresce sempre com base no valor inicial aplicado ou emprestado. 
+Isso significa que os juros não se acumulam sobre os juros anteriores, mas apenas sobre o capital inicial durante todo o tempo.
+Nesse tipo de juros, três informações são essenciais: o capital, que é o valor inicial; a taxa de juros, 
+que indica quanto rende em determinado período; e o tempo, que mostra por quanto tempo o dinheiro ficou aplicado 
+ou emprestado. Os juros aumentam de forma linear, ou seja, sempre pelo mesmo valor a cada período.
+O cálculo dos juros simples é feito multiplicando o capital, a taxa e o tempo. O resultado dessa multiplicação 
+corresponde apenas aos juros gerados, e para encontrar o valor total final, soma-se esse valor ao capital inicial.
+Os juros simples são comuns em situações mais básicas, como empréstimos de curto prazo ou compras parceladas simples, 
+pois são fáceis de calcular e entender, já que o valor dos juros cresce de maneira constante ao longo do tempo.
